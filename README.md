@@ -6,3 +6,10 @@ var a = 1;
 a ++;
 console.log(a);
 ```
+
+## liuke 加入了Web前端团队
+```
+var b = 1;
+b--;
+console.log(b);
+```
